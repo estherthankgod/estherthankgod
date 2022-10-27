@@ -13,4 +13,5 @@ things along the way.
 
 I love Emacs.
 
-How to reach me:https://www.linkedin.com/in/esther-ogolo-837554185
+https://www.linkedin.com/in/esther-ogolo-837554185
+It's my LinkedIn profile
